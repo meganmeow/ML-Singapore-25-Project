@@ -105,7 +105,7 @@ Converted using the convert.py under the LabelMeYoloConverter folder (referenced
 
 **Format**
 
-For ResNet50 and EfficientNetB0, corresponding bounding box for the ground truth were labelled with <!-- $(x_{centerbb}, y_{centerbb}, w_{widthbb}, h_{heightbb})$ --> <img style="transform: translateY(0.1em); background: white;" src="https://render.githubusercontent.com/render/math?math=(x_%7Bcenterbb%7D%2C%20y_%7Bcenterbb%7D%2C%20w_%7Bwidthbb%7D%2C%20h_%7Bheightbb%7D)">
+For YOLOv4-tiny, corresponding bounding box for the ground truth were labelled with <!-- $(x_{centerbb}, y_{centerbb}, w_{widthbb}, h_{heightbb})$ --> <img style="transform: translateY(0.1em); background: white;" src="https://render.githubusercontent.com/render/math?math=(x_%7Bcenterbb%7D%2C%20y_%7Bcenterbb%7D%2C%20w_%7Bwidthbb%7D%2C%20h_%7Bheightbb%7D)">
 
 Where:
 
@@ -120,7 +120,7 @@ Converted using the convert_coord.py under the LabelMeYoloConverter folder.
 
 **Format**
 
-For ResNet50 and EfficientNetB0, corresponding bounding box for the ground truth were labelled with $(x_{min}, x_{max}, y_{min}, y_{max})$
+For ResNet50 and EfficientNetB0, corresponding bounding box for the ground truth were labelled with <!-- $(x_{min}, x_{max}, y_{min}, y_{max})$ --> <img style="transform: translateY(0.1em); background: white;" src="https://render.githubusercontent.com/render/math?math=(x_%7Bmin%7D%2C%20x_%7Bmax%7D%2C%20y_%7Bmin%7D%2C%20y_%7Bmax%7D)">
 
 Where:
 
